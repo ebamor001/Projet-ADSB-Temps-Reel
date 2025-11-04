@@ -1,8 +1,6 @@
 # Fichiers binaires et temporaires
 *.mat
-*.pdf
 *.doc
-*.tex
 *~
 *.asv
 
